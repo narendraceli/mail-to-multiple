@@ -81,3 +81,5 @@ public class MailApp extends HttpServlet {
         out.println("Mail send successfully");
     }   
 }
+
+// these changes are made from 707 account
